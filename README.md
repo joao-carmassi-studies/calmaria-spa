@@ -1,13 +1,10 @@
-![image](https://github.com/user-attachments/assets/4fd635eb-e82f-4e2e-b052-d13d33cabf5d)
+# Calmaria Spa 🌿
 
-<hr>
+![Preview](https://github.com/user-attachments/assets/4fd635eb-e82f-4e2e-b052-d13d33cabf5d)
 
-<p align="center">Calmaria Spa</p>
+<p align="center">Um site para o Calmaria Spa, trazendo uma experiência visual relaxante e organizada.</p>
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
-* Sass
-
-## Link:
-https://joao-carmassi.github.io/calmaria-spa/
+## 🛠 Tecnologias utilizadas
+- HTML
+- CSS
+- Sass
